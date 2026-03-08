@@ -41,9 +41,9 @@ top:0;
 z-index:1000;
 }
 body{
-font-family:'Poppins' ,sans-serif;
+font-family: Arial, sans-serif;
 margin:0;
-background: #f6f6f6;
+background: #f5f5f5;
 text-align:center;
 }
 
@@ -209,6 +209,19 @@ section{
   box-shadow:0 4px 10px rgba(0,0,0,0.1);
 }
 
+.container{
+width:90%
+max-width:1000px;
+margin:auto;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px 0;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
 
 
 footer p{
@@ -274,4 +287,5 @@ section{
 margin:20px;
 
 }
+
 
