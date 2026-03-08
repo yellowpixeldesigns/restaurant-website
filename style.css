@@ -170,11 +170,12 @@ display:none;
 
 
 section{
-  padding:40px;
+  padding:50px;
+  text-align:centre;
 }
 
 section img{
-  width:250px;
+  width:300px;
   border-radius:10px;
   margin-top:10px;
 }
@@ -238,7 +239,8 @@ button{
 }
 
 button:hover{
-  background:#e85a2a;
+  background:#ff7a00;
+  cursor:pointer;
 }
 
 
@@ -269,4 +271,5 @@ border-radius 10px;
 
 section{
 margin:20px;
+
 }
