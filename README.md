@@ -6,7 +6,9 @@ A clean and responsive restaurant website built using HTML and CSS. it includes 
 ![Restaurant Website](Visit.jpg)
 ## Features
 - Responsive layout
+- beginner project
 - Navigation Bar
+- frontend
 - Menu Section
 - Chef special section
 - Contact section
